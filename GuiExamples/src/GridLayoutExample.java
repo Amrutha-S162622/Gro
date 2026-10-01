@@ -8,7 +8,7 @@ public class GridLayoutExample {
 
 		JFrame frame = new JFrame("Food Menu");
 
-        frame.setSize(400, 300);
+        frame.setSize(500, 300);
 
         // 3 rows and 2 columns
         frame.setLayout(new GridLayout(3, 2, 10, 10));
